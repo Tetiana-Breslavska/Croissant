@@ -6,14 +6,12 @@ h1, p{
 }
 
 nav{
-    display: flex;
-    width: 33%;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    margin-top: 20px;
+    text-align: center;
+    margin-top: 15px;
     
 }
 nav a{
+    margin: 0 10px;
     color:green;
 }
 
