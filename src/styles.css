@@ -7,7 +7,7 @@ h1, p{
 
 nav{
     text-align: center;
-    margin-top: 15px;
+    
     
 }
 nav a{
@@ -17,5 +17,6 @@ nav a{
 
 .croissant-photo{
     display: block;
-    margin: 0 auto;
+    margin: 15px auto;
+    border-radius: 20px;
 }
